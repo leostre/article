@@ -1,0 +1,7 @@
+#CPU # quantized latency: [0.055007 0.003357] throughput: [2583.753532    0.      ] model_size: 0.567
+#CPU # trfmtraining30 latency: [0.26157  0.015457] throughput: [675.074958   0.      ] model_size: 1.457
+#CUDA # trfmtraining30 latency: [2.357230e-03 4.254536e-05] throughput: [67001.661342     0.      ] model_size: 1.457
+#CPU # trfmlow20 latency: [0.258698 0.019286] throughput: [591.198247   0.      ] model_size: 1.585
+#CUDA # trfmlow20 latency: [2.399392e-03 4.625350e-05] throughput: [65657.826044     0.      ] model_size: 1.585
+#CPU # trfmlow50 latency: [0.258477 0.010116] throughput: [625.28641   0.     ] model_size: 1.71
+#CUDA # trfmlow50 latency: [2.399266e-03 4.527898e-05] throughput: [65236.574317     0.      ] model_size: 1.71

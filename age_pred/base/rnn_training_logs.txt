@@ -1,0 +1,82 @@
+[2025-01-28 15:09:51,722][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmppek37imm
+[2025-01-28 15:09:51,722][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmppek37imm/_remote_module_non_scriptable.py
+[2025-01-28 15:10:23,552][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 42700 records
+[2025-01-28 15:10:43,700][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 24700 records
+[2025-01-28 15:12:11,462][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-28 15:12:11,660][FedCoreAPI][INFO] - Initialising solver
+[2025-01-28 15:12:11,660][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 383.5164708919868
+Epoch: 2, Average loss 370.17996759471777
+Epoch: 3, Average loss 350.67663554802624
+Epoch: 4, Average loss 248.61026744499893
+Epoch: 5, Average loss 190.36068130253318
+Model Validation: 391.25434725272225
+Epoch: 6, Average loss 153.43247427911817
+Epoch: 7, Average loss 133.54406991832985
+Epoch: 9, Average loss 116.14454505257977
+Epoch: 10, Average loss 112.22498012017347
+Model Validation: 250.09502509715026
+Epoch: 11, Average loss 106.7768868372112
+Epoch: 12, Average loss 103.75125177320606
+Epoch: 13, Average loss 100.8867687893485
+Epoch: 14, Average loss 98.99537408708812
+Epoch: 15, Average loss 95.50223713006802
+Model Validation: 209.73505547874333
+Epoch: 16, Average loss 89.66453790093611
+Epoch: 17, Average loss 88.09638685523393
+Epoch: 18, Average loss 86.88029464561782
+Epoch: 19, Average loss 86.30960055311283
+Epoch: 20, Average loss 84.51068056700473
+Model Validation: 198.93303296973667
+Epoch: 21, Average loss 84.30876502733744
+Epoch: 22, Average loss 83.93093701608167
+Epoch: 23, Average loss 83.51124634428652
+Epoch: 24, Average loss 83.65248783762584
+Epoch: 25, Average loss 84.3458265501582
+Model Validation: 188.71241617943957
+Epoch: 26, Average loss 83.16215633346648
+Epoch: 27, Average loss 82.12803142227813
+Epoch: 28, Average loss 82.18041877975007
+Epoch: 29, Average loss 81.58986423401062
+Epoch: 30, Average loss 82.31763052512072
+Model Validation: 186.3701849428483
+Epoch: 31, Average loss 81.51504978020034
+Epoch: 32, Average loss 82.03897284890364
+Epoch: 33, Average loss 80.76035390071526
+Epoch: 34, Average loss 81.85737633562374
+Epoch: 35, Average loss 81.23334006063952
+Model Validation: 184.36023178495893
+Epoch: 36, Average loss 80.52941041221162
+Epoch: 37, Average loss 79.85174012326908
+Epoch: 38, Average loss 81.25926779130262
+Epoch: 39, Average loss 80.44768958462926
+Epoch: 40, Average loss 80.03672331821419
+Model Validation: 188.2762319139866
+Epoch: 41, Average loss 80.11898710627756
+Epoch: 42, Average loss 80.32620985065391
+Epoch: 43, Average loss 79.85063350414802
+Epoch: 44, Average loss 79.66251233380711
+Epoch: 45, Average loss 80.33674012543912
+Model Validation: 182.69593091579299
+Epoch: 46, Average loss 79.65217145617137
+Epoch: 47, Average loss 79.69536675378949
+Epoch: 48, Average loss 79.79426628101372
+Epoch: 49, Average loss 79.28498716554242
+Epoch: 50, Average loss 79.4430492081328
+Model Validation: 178.0321870319584
+Epoch: 51, Average loss 78.63580827941438
+Epoch: 52, Average loss 79.34716378571744
+Epoch: 53, Average loss 78.79583196582908
+Epoch: 54, Average loss 78.71075685723812
+Epoch: 55, Average loss 79.04959302319737
+Model Validation: 179.72880301203753
+Epoch: 56, Average loss 78.5167004876508
+Epoch: 57, Average loss 78.66832760136998
+Epoch: 58, Average loss 78.53205826182565
+Epoch: 59, Average loss 78.88795592256649
+Epoch: 60, Average loss 78.95200872135733
+Model Validation: 178.8675854144319
+Epoch: 61, Average loss 78.70620850888555
+Epoch: 62, Average loss 78.30008230380669
+Epoch: 63, Average loss 78.16770902793564

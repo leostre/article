@@ -1,0 +1,38 @@
+[2025-01-24 18:01:30,828][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-24 18:01:32,893][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-24 18:01:32,934][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpsrobtcoo
+[2025-01-24 18:01:32,934][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpsrobtcoo/_remote_module_non_scriptable.py
+[2025-01-24 18:02:03,349][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-24 18:02:03,548][FedCoreAPI][INFO] - Initialising solver
+[2025-01-24 18:02:03,548][FedCoreAPI][INFO] - Initialising experiment setup
+Quantized model inference supports CPU only
+[2025-01-25 02:08:25,953][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-25 02:08:28,026][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-25 02:08:28,070][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpw8l_5ig5
+[2025-01-25 02:08:28,070][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpw8l_5ig5/_remote_module_non_scriptable.py
+[2025-01-25 02:08:58,519][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-25 02:08:58,715][FedCoreAPI][INFO] - Initialising solver
+[2025-01-25 02:08:58,715][FedCoreAPI][INFO] - Initialising experiment setup
+Quantized model inference supports CPU only
+[2025-01-25 05:30:23,228][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-25 05:30:25,308][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-25 05:30:25,351][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpvv8h95d8
+[2025-01-25 05:30:25,351][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpvv8h95d8/_remote_module_non_scriptable.py
+[2025-01-25 05:30:55,843][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-25 05:30:56,043][FedCoreAPI][INFO] - Initialising solver
+[2025-01-25 05:30:56,043][FedCoreAPI][INFO] - Initialising experiment setup
+Quantized model inference supports CPU only
+Latency: [0.057923 0.002353] ms/sample with batch_size 32
+Throughput: [2752.269564    0.      ] samples/s with batch_size 32
+Model size: 0.567 MB
+[2025-01-27 14:50:10,145][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-27 14:50:12,210][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-27 14:50:12,255][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpk4g8srfr
+[2025-01-27 14:50:12,255][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpk4g8srfr/_remote_module_non_scriptable.py
+[2025-01-27 14:50:42,721][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-27 14:50:42,922][FedCoreAPI][INFO] - Initialising solver
+[2025-01-27 14:50:42,922][FedCoreAPI][INFO] - Initialising experiment setup
+Quantized model inference supports CPU only
+Latency: [0.061904 0.002513] ms/sample with batch_size 32
+Throughput: [2496.154496    0.      ] samples/s with batch_size 32
+Model size: 0.567 MB

@@ -1,0 +1,170 @@
+[2025-01-24 17:09:23,525][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-24 17:09:25,605][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-24 17:09:25,646][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpu7seqee4
+[2025-01-24 17:09:25,646][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpu7seqee4/_remote_module_non_scriptable.py
+[2025-01-24 17:09:55,950][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-24 17:09:56,145][FedCoreAPI][INFO] - Initialising solver
+[2025-01-24 17:09:56,146][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+[2025-01-25 02:13:20,066][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-25 02:13:22,129][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-25 02:13:22,170][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmp7bsxngoy
+[2025-01-25 02:13:22,170][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmp7bsxngoy/_remote_module_non_scriptable.py
+[2025-01-25 02:13:52,447][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-25 02:13:52,643][FedCoreAPI][INFO] - Initialising solver
+[2025-01-25 02:13:52,643][FedCoreAPI][INFO] - Initialising experiment setup
+ : False
+_seq_encoder : False
+_seq_encoder.trx_encoder : False
+_seq_encoder.trx_encoder.embeddings.trans_date : False
+_seq_encoder.trx_encoder.embeddings.small_group : False
+_seq_encoder.trx_encoder.custom_embeddings.amount_rur : False
+_seq_encoder.seq_encoder : False
+_seq_encoder.seq_encoder.enc : False
+_seq_encoder.seq_encoder.enc.layers.0 : False
+_seq_encoder.seq_encoder.enc.layers.0.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.0.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.0.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.0.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.0.dropout : True
+_seq_encoder.seq_encoder.enc.layers.0.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.0.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.0.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.1 : False
+_seq_encoder.seq_encoder.enc.layers.1.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.1.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.1.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.1.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.1.dropout : True
+_seq_encoder.seq_encoder.enc.layers.1.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.1.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.1.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.2 : False
+_seq_encoder.seq_encoder.enc.layers.2.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.2.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.2.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.2.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.2.dropout : True
+_seq_encoder.seq_encoder.enc.layers.2.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.2.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.2.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.3 : False
+_seq_encoder.seq_encoder.enc.layers.3.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.3.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.3.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.3.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.3.dropout : True
+_seq_encoder.seq_encoder.enc.layers.3.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.3.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.3.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.4 : False
+_seq_encoder.seq_encoder.enc.layers.4.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.4.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.4.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.4.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.4.dropout : True
+_seq_encoder.seq_encoder.enc.layers.4.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.4.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.4.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.5 : False
+_seq_encoder.seq_encoder.enc.layers.5.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.5.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.5.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.5.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.5.dropout : True
+_seq_encoder.seq_encoder.enc.layers.5.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.5.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.5.norm2 : True
+_seq_encoder.seq_encoder.enc.norm : True
+Forcely substituted loss to ContrastiveLoss()
+[2025-01-25 02:19:04,530][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-25 02:19:06,610][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-25 02:19:06,654][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpez0caatx
+[2025-01-25 02:19:06,654][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpez0caatx/_remote_module_non_scriptable.py
+[2025-01-25 02:19:37,102][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-25 02:19:37,299][FedCoreAPI][INFO] - Initialising solver
+[2025-01-25 02:19:37,299][FedCoreAPI][INFO] - Initialising experiment setup
+ : False
+_seq_encoder : False
+_seq_encoder.trx_encoder : False
+_seq_encoder.trx_encoder.embeddings.trans_date : False
+_seq_encoder.trx_encoder.embeddings.small_group : False
+_seq_encoder.trx_encoder.custom_embeddings.amount_rur : False
+_seq_encoder.seq_encoder : False
+_seq_encoder.seq_encoder.enc : False
+_seq_encoder.seq_encoder.enc.layers.0 : False
+_seq_encoder.seq_encoder.enc.layers.0.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.0.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.0.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.0.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.0.dropout : True
+_seq_encoder.seq_encoder.enc.layers.0.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.0.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.0.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.1 : False
+_seq_encoder.seq_encoder.enc.layers.1.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.1.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.1.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.1.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.1.dropout : True
+_seq_encoder.seq_encoder.enc.layers.1.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.1.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.1.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.2 : False
+_seq_encoder.seq_encoder.enc.layers.2.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.2.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.2.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.2.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.2.dropout : True
+_seq_encoder.seq_encoder.enc.layers.2.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.2.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.2.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.3 : False
+_seq_encoder.seq_encoder.enc.layers.3.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.3.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.3.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.3.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.3.dropout : True
+_seq_encoder.seq_encoder.enc.layers.3.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.3.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.3.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.4 : False
+_seq_encoder.seq_encoder.enc.layers.4.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.4.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.4.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.4.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.4.dropout : True
+_seq_encoder.seq_encoder.enc.layers.4.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.4.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.4.norm2 : True
+_seq_encoder.seq_encoder.enc.layers.5 : False
+_seq_encoder.seq_encoder.enc.layers.5.self_attn : False
+_seq_encoder.seq_encoder.enc.layers.5.dropout1 : True
+_seq_encoder.seq_encoder.enc.layers.5.norm1 : True
+_seq_encoder.seq_encoder.enc.layers.5.linear1 : True
+_seq_encoder.seq_encoder.enc.layers.5.dropout : True
+_seq_encoder.seq_encoder.enc.layers.5.linear2 : True
+_seq_encoder.seq_encoder.enc.layers.5.dropout2 : True
+_seq_encoder.seq_encoder.enc.layers.5.norm2 : True
+_seq_encoder.seq_encoder.enc.norm : True
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 1536.3320719401042
+Basic saving failed. Trying to use jit. 
+Reason:  Can't pickle local object 'add_module_to_qconfig_obs_ctr.<locals>.get_factory_kwargs_based_on_module_device'
+JIT saving failed. saving weights only. 
+Reason:  CoLESModule is not attached to a `Trainer`.
+Quantized model inference supports CPU only
+[2025-01-25 02:26:27,220][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-25 02:26:29,290][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-25 02:26:29,334][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpcufbfs6c
+[2025-01-25 02:26:29,334][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpcufbfs6c/_remote_module_non_scriptable.py
+[2025-01-25 02:26:59,659][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-25 02:26:59,856][FedCoreAPI][INFO] - Initialising solver
+[2025-01-25 02:26:59,856][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 1377.473871866862
+Basic saving failed. Trying to use jit. 
+Reason:  Can't pickle local object 'add_module_to_qconfig_obs_ctr.<locals>.get_factory_kwargs_based_on_module_device'
+JIT saving failed. saving weights only. 
+Reason:  CoLESModule is not attached to a `Trainer`.
+Quantized model inference supports CPU only

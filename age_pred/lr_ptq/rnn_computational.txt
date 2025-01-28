@@ -1,0 +1,1 @@
+#CPU # quantized latency: [0.201374 0.002974] throughput: [736.436317   0.      ] model_size: 1.457

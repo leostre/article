@@ -1,0 +1,20 @@
+#CPU # trfmtraining70 latency: [0.226488 0.024819] throughput: [680.402672   0.      ] model_size: 1.457
+#CUDA # trfmtraining70 latency: [2.362110e-03 4.389027e-05] throughput: [66848.156191     0.      ] model_size: 1.457
+#CPU # trfmtraining100 latency: [0.199276 0.00795 ] throughput: [789.8859   0.    ] model_size: 1.457
+#CUDA # trfmtraining100 latency: [2.375051e-03 5.662869e-05] throughput: [67500.366124     0.      ] model_size: 1.457
+#CPU # trfmtraining40 latency: [0.199728 0.005278] throughput: [820.185183   0.      ] model_size: 1.457
+#CUDA # trfmtraining40 latency: [2.359472e-03 4.420751e-05] throughput: [67028.429884     0.      ] model_size: 1.457
+#CPU # trfmtraining50 latency: [0.203784 0.011912] throughput: [823.648021   0.      ] model_size: 1.457
+#CUDA # trfmtraining50 latency: [2.363488e-03 4.029192e-05] throughput: [66708.612326     0.      ] model_size: 1.457
+#CPU # trfmtraining60 latency: [0.196889 0.007347] throughput: [824.125437   0.      ] model_size: 1.457
+#CUDA # trfmtraining60 latency: [2.359726e-03 5.005338e-05] throughput: [65059.490063     0.      ] model_size: 1.457
+#CPU # trfmtraining90 latency: [0.198509 0.004325] throughput: [847.553521   0.      ] model_size: 1.457
+#CUDA # trfmtraining90 latency: [2.364889e-03 4.348084e-05] throughput: [66688.725032     0.      ] model_size: 1.457
+#CPU # trfmtraining10 latency: [0.198292 0.00533 ] throughput: [837.683854   0.      ] model_size: 1.457
+#CUDA # trfmtraining10 latency: [2.361156e-03 4.145806e-05] throughput: [67122.288458     0.      ] model_size: 1.457
+#CPU # trfmtraining20 latency: [0.202867 0.008277] throughput: [808.757823   0.      ] model_size: 1.457
+#CUDA # trfmtraining20 latency: [2.361163e-03 4.449741e-05] throughput: [67209.678518     0.      ] model_size: 1.457
+#CPU # trfmtraining80 latency: [0.20221  0.007541] throughput: [796.683386   0.      ] model_size: 1.457
+#CUDA # trfmtraining80 latency: [2.370417e-03 4.458714e-05] throughput: [66635.750174     0.      ] model_size: 1.457
+#CPU # trfmtraining30 latency: [0.19316  0.008864] throughput: [795.107995   0.      ] model_size: 1.457
+#CUDA # trfmtraining30 latency: [2.365813e-03 4.155033e-05] throughput: [67256.829024     0.      ] model_size: 1.457

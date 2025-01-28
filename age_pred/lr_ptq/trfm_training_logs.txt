@@ -1,0 +1,326 @@
+[2025-01-22 22:14:28,216][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-22 22:14:30,285][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-22 22:14:30,331][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpu26ghs7t
+[2025-01-22 22:14:30,331][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpu26ghs7t/_remote_module_non_scriptable.py
+[2025-01-22 22:15:00,898][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-22 22:15:01,099][FedCoreAPI][INFO] - Initialising solver
+[2025-01-22 22:15:01,099][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 1264.3562761942546
+Basic saving failed. Trying to use jit. 
+Reason:  Can't pickle local object 'add_module_to_qconfig_obs_ctr.<locals>.get_factory_kwargs_based_on_module_device'
+JIT saving failed. saving weights only. 
+Reason:  CoLESModule is not attached to a `Trainer`.
+Quantized model inference supports CPU only
+[2025-01-25 02:52:55,479][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-25 02:52:57,557][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-25 02:52:57,599][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpwcmbwdif
+[2025-01-25 02:52:57,599][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpwcmbwdif/_remote_module_non_scriptable.py
+[2025-01-25 02:53:28,152][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-25 02:53:28,356][FedCoreAPI][INFO] - Initialising solver
+[2025-01-25 02:53:28,356][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 1739.9523350589247
+Epoch: 2, Average loss 745.0528610872935
+Epoch: 3, Average loss 708.1266756862043
+Epoch: 4, Average loss 673.3454623854304
+Epoch: 5, Average loss 640.736512827586
+Model Validation: 370.7722002665202
+Epoch: 6, Average loss 608.1669785602983
+Epoch: 7, Average loss 582.3435585642435
+Epoch: 8, Average loss 560.7025237485586
+Epoch: 9, Average loss 539.2551023873938
+Epoch: 10, Average loss 523.4198339990822
+Model Validation: 217.61312929789224
+Epoch: 11, Average loss 510.79500831466123
+Epoch: 12, Average loss 500.51618551920694
+Epoch: 13, Average loss 488.2017933489328
+Epoch: 14, Average loss 478.002887266228
+Epoch: 15, Average loss 470.0756741374372
+Model Validation: 194.05965010325113
+Epoch: 16, Average loss 461.68662764078164
+Epoch: 17, Average loss 455.9876421043672
+Epoch: 18, Average loss 449.32022113110645
+Epoch: 19, Average loss 443.6587739737637
+Epoch: 20, Average loss 441.5062881722508
+Model Validation: 181.71796226501465
+Epoch: 21, Average loss 436.3276652485491
+Epoch: 22, Average loss 434.2445448220494
+Epoch: 23, Average loss 429.7440817040133
+Epoch: 24, Average loss 427.05362200449747
+Epoch: 25, Average loss 425.0353528447898
+Model Validation: 177.39417362213135
+Epoch: 26, Average loss 421.26813112971297
+Epoch: 27, Average loss 419.66802984260653
+Epoch: 28, Average loss 417.75612395642753
+Epoch: 29, Average loss 415.5933892698173
+Epoch: 30, Average loss 414.28029710700713
+Model Validation: 174.25708071390787
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 415.1437587278435
+Epoch: 2, Average loss 409.4428791252964
+Epoch: 3, Average loss 407.26737020101893
+Epoch: 4, Average loss 404.6951232703335
+Epoch: 5, Average loss 403.00153761024933
+Model Validation: 172.02138010660806
+Epoch: 6, Average loss 401.84991620534873
+Epoch: 7, Average loss 401.1829527659589
+Epoch: 8, Average loss 400.12417262433524
+Epoch: 9, Average loss 397.474150473813
+Epoch: 10, Average loss 396.6825257726463
+Model Validation: 173.82340939839682
+Epoch: 11, Average loss 396.50579104366074
+Epoch: 12, Average loss 395.6284321934344
+Epoch: 13, Average loss 395.00215360342736
+Epoch: 14, Average loss 392.39418990353505
+Epoch: 15, Average loss 392.0987417726632
+Model Validation: 170.69909191131592
+Epoch: 16, Average loss 391.5494825064418
+Epoch: 17, Average loss 391.58863669705676
+Epoch: 18, Average loss 390.72294612103195
+Epoch: 19, Average loss 389.46224343633077
+Epoch: 20, Average loss 388.3799984828535
+Model Validation: 167.4028606414795
+Epoch: 21, Average loss 388.36279096948095
+Epoch: 22, Average loss 387.01137650731096
+Epoch: 23, Average loss 387.6860959960754
+Epoch: 24, Average loss 386.2517491306167
+Epoch: 25, Average loss 387.17849883113996
+Model Validation: 168.0297555923462
+Epoch: 26, Average loss 385.99444506541795
+Epoch: 27, Average loss 385.0704488639372
+Epoch: 28, Average loss 384.66747665405273
+Epoch: 29, Average loss 384.1345861159175
+Epoch: 30, Average loss 383.91875114211115
+Model Validation: 165.8776626586914
+Epoch: 31, Average loss 383.111484332257
+Epoch: 32, Average loss 381.3494133891829
+Epoch: 33, Average loss 383.16659845788797
+Epoch: 34, Average loss 382.31560001603094
+Epoch: 35, Average loss 381.308975311647
+Model Validation: 166.1386397679647
+Epoch: 36, Average loss 380.7311661042363
+Epoch: 37, Average loss 381.3834396040583
+Epoch: 38, Average loss 380.46179348589425
+Epoch: 39, Average loss 379.9493349488959
+Epoch: 40, Average loss 379.7288719889629
+Model Validation: 165.71373240152994
+Epoch: 41, Average loss 380.2553734147405
+Epoch: 42, Average loss 379.3599451134004
+Epoch: 43, Average loss 379.73369085932353
+Epoch: 44, Average loss 379.7201791786286
+Epoch: 45, Average loss 378.3305346822164
+Model Validation: 164.7086149851481
+Epoch: 46, Average loss 378.47494908987755
+Epoch: 47, Average loss 378.4138642276626
+Epoch: 48, Average loss 378.04706155248437
+Epoch: 49, Average loss 377.6458411561437
+Epoch: 50, Average loss 377.28394259027687
+Model Validation: 165.55326080322266
+==============Truncate rank for each weight matrix=================
+After rank pruning left only 100.0 % of trans_date layer params
+After rank pruning left only 100.0 % of small_group layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+==============Finetune truncated model=================
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 416.8689200083415
+Epoch: 2, Average loss 360.37830352783203
+Epoch: 3, Average loss 345.00569407145184
+Epoch: 4, Average loss 325.5515886942546
+Epoch: 5, Average loss 296.1095434824626
+Model Validation: 303.6959991455078
+Epoch: 6, Average loss 272.04684289296466
+Epoch: 7, Average loss 252.11434745788574
+Epoch: 8, Average loss 238.07030455271402
+Epoch: 9, Average loss 229.89651902516684
+Epoch: 10, Average loss 224.1786963144938
+Model Validation: 199.55811055501303
+Epoch: 11, Average loss 218.92767492930093
+Epoch: 12, Average loss 214.44936498006186
+Epoch: 13, Average loss 209.12567329406738
+Epoch: 14, Average loss 207.04539235432944
+Epoch: 15, Average loss 203.39637756347656
+Model Validation: 183.47037855784097
+Epoch: 16, Average loss 202.80335966746011
+Epoch: 17, Average loss 199.09950637817383
+Epoch: 18, Average loss 197.15446281433105
+Epoch: 19, Average loss 197.39001655578613
+Epoch: 20, Average loss 195.26613012949625
+Model Validation: 176.29486529032388
+==============After low rank truncation=================
+Params: 0.17 M => 0.17 M
+MACs: 0.02 G => 0.02 G
+Forcely substituted loss to ContrastiveLoss()
+[2025-01-27 12:52:19,472][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-27 12:52:21,540][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-27 12:52:21,583][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpqoyum5uy
+[2025-01-27 12:52:21,583][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpqoyum5uy/_remote_module_non_scriptable.py
+[2025-01-27 12:52:52,024][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-27 12:52:52,229][FedCoreAPI][INFO] - Initialising solver
+[2025-01-27 12:52:52,229][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 2119.7777367097788
+Epoch: 2, Average loss 768.7075360079846
+Epoch: 3, Average loss 753.0617687271302
+Epoch: 4, Average loss 737.7922337543533
+Epoch: 5, Average loss 721.7961773700025
+Model Validation: 650.3852564493815
+Epoch: 6, Average loss 703.0767241788197
+Epoch: 7, Average loss 681.2055973144899
+Epoch: 8, Average loss 662.5499978582543
+Epoch: 9, Average loss 647.6935516954904
+Epoch: 10, Average loss 630.5312313861158
+Model Validation: 385.16085561116535
+Epoch: 11, Average loss 614.1599688472518
+Epoch: 12, Average loss 600.4393689029188
+Epoch: 13, Average loss 584.1867421161697
+Epoch: 14, Average loss 568.1562075212778
+Epoch: 15, Average loss 555.5518560294645
+Model Validation: 255.36834780375162
+Epoch: 16, Average loss 544.7912670847882
+Epoch: 17, Average loss 534.2001319563533
+Epoch: 18, Average loss 521.8917439702045
+Epoch: 19, Average loss 512.6328733053552
+Epoch: 20, Average loss 503.68496648949315
+Model Validation: 206.86141777038574
+Epoch: 21, Average loss 493.9622436431517
+Epoch: 22, Average loss 488.07276901566837
+Epoch: 23, Average loss 480.6638859898211
+Epoch: 24, Average loss 475.6275416914239
+Epoch: 25, Average loss 469.47591955115996
+Model Validation: 193.2186476389567
+Epoch: 26, Average loss 463.77490135560555
+Epoch: 27, Average loss 460.3183139778045
+Epoch: 28, Average loss 459.0801944502865
+Epoch: 29, Average loss 453.37825636116855
+Epoch: 30, Average loss 448.1416338840163
+Model Validation: 187.757129351298
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 446.45386300604025
+Epoch: 2, Average loss 434.741387240858
+Epoch: 3, Average loss 429.21865302396105
+Epoch: 4, Average loss 423.6406191056033
+Epoch: 5, Average loss 419.47615232812353
+Model Validation: 175.7358881632487
+Epoch: 6, Average loss 416.79838121942726
+Epoch: 7, Average loss 414.4344402910715
+Epoch: 8, Average loss 410.16414715870314
+Epoch: 9, Average loss 408.7460779971387
+Epoch: 10, Average loss 406.28529084446916
+Model Validation: 173.05737241109213
+Epoch: 11, Average loss 404.39222582851545
+Epoch: 12, Average loss 402.22306058493007
+Epoch: 13, Average loss 400.21491458042556
+Epoch: 14, Average loss 398.3812142912164
+Epoch: 15, Average loss 397.90439001336154
+Model Validation: 170.25908533732095
+Epoch: 16, Average loss 397.28399061869425
+Epoch: 17, Average loss 394.1373165314456
+Epoch: 18, Average loss 392.9114729525095
+Epoch: 19, Average loss 396.245962292315
+Epoch: 20, Average loss 394.71399762257033
+Model Validation: 169.48641522725424
+Epoch: 21, Average loss 391.80081329001
+Epoch: 22, Average loss 391.1234252653926
+Epoch: 23, Average loss 390.84702480270204
+Epoch: 24, Average loss 388.92453333843184
+Epoch: 25, Average loss 388.378668957446
+Model Validation: 169.40320269266763
+Epoch: 26, Average loss 387.8461919692625
+Epoch: 27, Average loss 386.82616483734313
+Epoch: 28, Average loss 385.8819739560047
+Epoch: 29, Average loss 385.0531720195908
+Epoch: 30, Average loss 385.23840683626844
+Model Validation: 166.79451688130698
+Epoch: 31, Average loss 384.4576976959964
+Epoch: 32, Average loss 383.9738087941365
+Epoch: 33, Average loss 383.39702189112285
+Epoch: 34, Average loss 383.772064128554
+Epoch: 35, Average loss 382.41213153931034
+Model Validation: 167.7841501235962
+Epoch: 36, Average loss 381.0878752283303
+Epoch: 37, Average loss 381.92673534944834
+Epoch: 38, Average loss 380.7527786507664
+Epoch: 39, Average loss 381.47600381920137
+Epoch: 40, Average loss 380.70025939252
+Model Validation: 165.2326259613037
+Epoch: 41, Average loss 379.2991826505546
+Epoch: 42, Average loss 378.6611284347902
+Epoch: 43, Average loss 379.3992165599961
+Epoch: 44, Average loss 378.7177135743291
+Epoch: 45, Average loss 377.4072819215706
+Model Validation: 167.3181234995524
+Epoch: 46, Average loss 376.94123461160314
+Epoch: 47, Average loss 377.00188331144403
+Epoch: 48, Average loss 376.4211456229888
+Epoch: 49, Average loss 377.52896337624054
+Epoch: 50, Average loss 376.6853315858956
+Model Validation: 165.9528652826945
+==============Truncate rank for each weight matrix=================
+After rank pruning left only 100.0 % of trans_date layer params
+After rank pruning left only 100.0 % of small_group layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+After rank pruning left only 100.0 % of out_proj layer params
+After rank pruning left only 100.0 % of linear1 layer params
+After rank pruning left only 100.0 % of linear2 layer params
+==============Finetune truncated model=================
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 739.3573328653971
+Epoch: 2, Average loss 449.42381795247394
+Epoch: 3, Average loss 380.6347020467122
+Epoch: 4, Average loss 361.5282173156738
+Epoch: 5, Average loss 354.79397710164386
+Model Validation: 627.2150561014811
+Epoch: 6, Average loss 344.72745005289715
+Epoch: 7, Average loss 336.253968556722
+Epoch: 8, Average loss 324.13409996032715
+Epoch: 9, Average loss 305.55272102355957
+Epoch: 10, Average loss 275.3307882944743
+Model Validation: 245.51953188578287
+Epoch: 11, Average loss 251.6457150777181
+Epoch: 12, Average loss 235.60135142008463
+Epoch: 13, Average loss 226.68419615427652
+Epoch: 14, Average loss 218.25579166412354
+Epoch: 15, Average loss 213.27356020609537
+Model Validation: 190.79939206441244
+Epoch: 16, Average loss 210.0709540049235
+Epoch: 17, Average loss 206.68425496419272
+Epoch: 18, Average loss 203.3322483698527
+Epoch: 19, Average loss 199.90099143981934
+Epoch: 20, Average loss 198.48218949635825
+Model Validation: 180.087056795756
+==============After low rank truncation=================
+Params: 0.17 M => 0.17 M
+MACs: 0.02 G => 0.02 G
+Forcely substituted loss to ContrastiveLoss()

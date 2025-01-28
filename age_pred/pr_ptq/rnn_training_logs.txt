@@ -1,0 +1,149 @@
+[2025-01-21 19:27:18,463][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmps_ivaoy1
+[2025-01-21 19:27:18,463][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmps_ivaoy1/_remote_module_non_scriptable.py
+[2025-01-21 19:27:34,980][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-21 19:27:37,054][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-21 19:28:07,493][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-21 19:28:07,696][FedCoreAPI][INFO] - Initialising solver
+[2025-01-21 19:28:07,696][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 1656.5581983543304
+Epoch: 2, Average loss 1542.0639881915356
+Epoch: 3, Average loss 1529.1565947015602
+Epoch: 4, Average loss 1526.0263768391437
+Epoch: 5, Average loss 1428.0668277051075
+Model Validation: 674.712532043457
+Epoch: 6, Average loss 1403.9667850402464
+Epoch: 7, Average loss 1410.8018690362035
+Epoch: 8, Average loss 1413.2253661557852
+Epoch: 9, Average loss 1509.4418491685246
+Epoch: 10, Average loss 1421.8389202945204
+Model Validation: 672.8978958129883
+Epoch: 11, Average loss 1409.348816837173
+Epoch: 12, Average loss 1405.2818904095386
+Epoch: 13, Average loss 1399.1166860281703
+Epoch: 14, Average loss 1402.8241877728199
+Epoch: 15, Average loss 1409.4330113882042
+Model Validation: 667.9414571126302
+Epoch: 16, Average loss 1408.4559105562876
+Epoch: 17, Average loss 1407.4495340600072
+Epoch: 18, Average loss 1406.7763613045934
+Epoch: 19, Average loss 1401.8919275122953
+Epoch: 20, Average loss 1397.0498114896109
+Model Validation: 665.8203862508138
+Epoch: 21, Average loss 1395.4992568234363
+Epoch: 22, Average loss 1403.3024552126965
+Epoch: 23, Average loss 1405.3189171480844
+Epoch: 24, Average loss 1422.8933164297816
+Epoch: 25, Average loss 1405.832255260054
+Model Validation: 668.9360326131185
+Epoch: 26, Average loss 1405.5555855165046
+Epoch: 27, Average loss 1403.484354409827
+Epoch: 28, Average loss 1403.9553325147515
+Epoch: 29, Average loss 1401.3707275390625
+Epoch: 30, Average loss 1448.1755706143667
+Model Validation: 745.9738883972168
+Epoch: 31, Average loss 1439.8394124134477
+Epoch: 32, Average loss 1402.406971575266
+Epoch: 33, Average loss 1350.7328527979105
+Epoch: 34, Average loss 1318.532230331237
+Epoch: 35, Average loss 1335.616536174912
+Model Validation: 619.2278366088867
+Epoch: 36, Average loss 1299.2549567165145
+Epoch: 37, Average loss 1283.5744691871735
+Epoch: 38, Average loss 1337.0301456221614
+Epoch: 39, Average loss 1314.8364424188453
+Epoch: 40, Average loss 1309.5712314743594
+Model Validation: 654.8058827718099
+Epoch: 41, Average loss 1299.5171930703773
+Epoch: 42, Average loss 1262.4819202882697
+Epoch: 43, Average loss 1234.443970071264
+Epoch: 44, Average loss 1227.5443391225424
+Epoch: 45, Average loss 1193.2842295543257
+Model Validation: 548.915932337443
+Epoch: 46, Average loss 1280.1537208097527
+Epoch: 47, Average loss 1300.3675095201975
+Epoch: 48, Average loss 1321.0297365073698
+Epoch: 49, Average loss 1340.6242904663086
+Epoch: 50, Average loss 1296.2036471998836
+Model Validation: 611.4074096679688
+Epoch: 51, Average loss 1296.020370161677
+Epoch: 52, Average loss 1290.8284536614476
+Epoch: 53, Average loss 1284.2728123492504
+Epoch: 54, Average loss 1283.3691594457052
+Epoch: 55, Average loss 1276.2771662976368
+Model Validation: 589.3646971384684
+Epoch: 56, Average loss 1268.3000084750624
+Epoch: 57, Average loss 1281.1855568943254
+Epoch: 58, Average loss 1253.0686543935753
+Epoch: 59, Average loss 1241.3525257110596
+Epoch: 60, Average loss 1242.6181231119547
+Model Validation: 579.7236957550049
+==============Prepare original model for pruning=================
+==============Initialisation of magnitude_pruner pruning agent=================
+==============Pruning importance - MagnitudeImportance =================
+==============Pruning ratio -  0.75 =================
+==============Pruning importance norm -  1 =================
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 1429.1062910011017
+Epoch: 2, Average loss 1241.7766551511834
+Epoch: 3, Average loss 1191.0435548345727
+Epoch: 4, Average loss 1147.441360703434
+Epoch: 5, Average loss 1121.786958947239
+Model Validation: 579.3503189086914
+Epoch: 6, Average loss 1107.7358645243817
+Epoch: 7, Average loss 1112.1353516176523
+Epoch: 8, Average loss 1063.0126799847706
+Epoch: 9, Average loss 1070.0225584420814
+Epoch: 10, Average loss 993.7697613268014
+Model Validation: 446.3270270029704
+Epoch: 11, Average loss 981.2275276413883
+Epoch: 12, Average loss 948.9617266367717
+Epoch: 13, Average loss 938.3937282332455
+Epoch: 14, Average loss 939.5145016865558
+Epoch: 15, Average loss 933.3043182212186
+Model Validation: 447.1915995279948
+Epoch: 16, Average loss 924.399634786399
+Epoch: 17, Average loss 909.7543948989317
+Epoch: 18, Average loss 894.5188628506947
+Epoch: 19, Average loss 907.138132554939
+Epoch: 20, Average loss 876.1119899060353
+Model Validation: 434.3889904022217
+Epoch: 21, Average loss 891.8195771366717
+Epoch: 22, Average loss 860.147278222693
+Epoch: 23, Average loss 840.9491369638098
+Epoch: 24, Average loss 805.0254283813109
+Epoch: 25, Average loss 784.5600433809211
+Model Validation: 352.89902369181317
+Epoch: 26, Average loss 777.6001051132938
+Epoch: 27, Average loss 768.6686990577055
+Epoch: 28, Average loss 754.4413259919868
+Epoch: 29, Average loss 723.364911136857
+Epoch: 30, Average loss 705.5746224874473
+Model Validation: 312.908348719279
+==============Finetune pruned model=================
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 722.3518107081034
+Epoch: 2, Average loss 692.1330890195916
+Epoch: 3, Average loss 690.7444118132074
+Epoch: 4, Average loss 685.0263417025647
+Epoch: 5, Average loss 673.6970373406467
+Model Validation: 296.7168896993001
+Epoch: 6, Average loss 646.2917058554041
+Epoch: 7, Average loss 628.8291916100376
+Epoch: 8, Average loss 611.3514339722783
+Epoch: 9, Average loss 602.6264845836594
+Epoch: 10, Average loss 594.3744205222073
+Model Validation: 271.7409127553304
+==============After pruning=================
+Params: 0.38 M => 0.38 M
+MACs: 0.00 G => 0.00 G
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 360.9716682434082
+Basic saving failed. Trying to use jit. 
+Reason:  Can't pickle local object 'add_module_to_qconfig_obs_ctr.<locals>.get_factory_kwargs_based_on_module_device'
+JIT saving failed. saving weights only. 
+Reason:  CoLESModule is not attached to a `Trainer`.
+Quantized model inference supports CPU only
+Latency: [0.238376 0.003173] ms/sample with batch_size 32
+Throughput: [598.126214   0.      ] samples/s with batch_size 32
+Model size: 1.457 MB

@@ -1,0 +1,17 @@
+[2025-01-21 18:07:26,299][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpgqez3v6w
+[2025-01-21 18:07:26,299][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpgqez3v6w/_remote_module_non_scriptable.py
+[2025-01-21 18:07:42,883][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 21000 records
+[2025-01-21 18:07:44,958][ptls.data_load.datasets.memory_dataset][INFO] - Loaded 3000 records
+[2025-01-21 18:08:15,516][FedCoreAPI][INFO] - Initialising FedCore Repository
+[2025-01-21 18:08:15,717][FedCoreAPI][INFO] - Initialising solver
+[2025-01-21 18:08:15,717][FedCoreAPI][INFO] - Initialising experiment setup
+Forcely substituted loss to ContrastiveLoss()
+Epoch: 1, Average loss 944.3489290873209
+Basic saving failed. Trying to use jit. 
+Reason:  Can't pickle local object 'add_module_to_qconfig_obs_ctr.<locals>.get_factory_kwargs_based_on_module_device'
+JIT saving failed. saving weights only. 
+Reason:  CoLESModule is not attached to a `Trainer`.
+Quantized model inference supports CPU only
+Latency: [0.201374 0.002974] ms/sample with batch_size 32
+Throughput: [736.436317   0.      ] samples/s with batch_size 32
+Model size: 1.457 MB

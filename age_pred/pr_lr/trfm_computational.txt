@@ -1,0 +1,10 @@
+#CPU # trfmtraining30 latency: [0.293114 0.023899] throughput: [681.479845   0.      ] model_size: 1.457
+#CUDA # trfmtraining30 latency: [2.366140e-03 6.022292e-05] throughput: [66821.531415     0.      ] model_size: 1.457
+#CPU # trfmpruning10 latency: [0.290714 0.008931] throughput: [560.472171   0.      ] model_size: 1.457
+#CUDA # trfmpruning10 latency: [2.359144e-03 4.220571e-05] throughput: [66994.972547     0.      ] model_size: 1.457
+#CPU # trfmlow10 latency: [0.285997 0.006459] throughput: [557.07213   0.     ] model_size: 1.585
+#CUDA # trfmlow10 latency: [2.407700e-03 4.331256e-05] throughput: [65280.996109     0.      ] model_size: 1.585
+#CPU # trfmpruning20 latency: [0.288924 0.005274] throughput: [563.336459   0.      ] model_size: 1.457
+#CUDA # trfmpruning20 latency: [2.368800e-03 4.608029e-05] throughput: [66662.227079     0.      ] model_size: 1.457
+#CPU # trfmlow30 latency: [0.282639 0.005862] throughput: [565.49586   0.     ] model_size: 1.71
+#CUDA # trfmlow30 latency: [2.403267e-03 4.699158e-05] throughput: [65851.10784     0.     ] model_size: 1.71
